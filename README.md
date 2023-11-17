@@ -43,3 +43,9 @@ En resumen, el proyecto ha logrado implementar una solución eficiente basada en
 - Videos de la cátedra.
 - [Canal de YouTube](https://youtube.com/@ProgramacionATS).
 - Foros y Cplusplus.
+
+![TDA_Avl](https://github.com/Franruaben11/AgendaVirtual/assets/110149404/9d705149-3dfa-415b-9d2a-0a3ff3770d99)
+![TDA_Agenda](https://github.com/Franruaben11/AgendaVirtual/assets/110149404/617a8b6b-f28f-42fe-be9d-30c5da82047a)
+![TDA_Contact](https://github.com/Franruaben11/AgendaVirtual/assets/110149404/16467028-126f-467c-bcd2-bef2481b257c)
+
+
