@@ -15,7 +15,12 @@ Contact::Contact(string name, string nroTel, string email, string direccion, str
     setRedesSociales(socialMedia);
 }
 
-// Contact::~Contact(){
+//  SI LO IMPLEMENTO SOLO CON LA CLASE CONTACT FUNCIONA PERFECTO, PERO
+//  CUANDO LO IMPLEMENTO CON LA AGENDA ME GENERA ERROR!.
+
+//  LA RAZON POR LA CUAL QUERIA USAR EL DESTRUCTOR ES POR LA LISTA DE LAS REDES SOCIALES
+
+// Contact::~Contact(){ 
 //     limpiar(redesSociales);
 // }
 
