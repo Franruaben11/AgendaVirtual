@@ -18,24 +18,18 @@ void Agenda::eliminarContacto(const string& name){
     }
 }
 
-bool Agenda::buscarContacto(const string& name){
+void Agenda::buscarContacto(const string& name){
     if (name!=""){
     Contact* miNodo = miAgenda.buscarNodo(name);
     cout<< endl;
     if (miNodo != nullptr) {
-        // Haces algo si el contacto fue encontrado
         datosUser(miNodo);
         cout<< endl;
-        return true;
-    } else {
-        // Haces algo si el contacto no fue encontrado
         
+    } else {
         cout<< "EL CONTACTO NO FUE ENCONTRADO" << endl;
         cout<< endl;
-        return false;
     }
-    }else{
-        return false;
     }
 }
 

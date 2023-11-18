@@ -16,7 +16,7 @@ public:
     void agregarContacto(const Contact& miContacto);
     void mostrarContactos() const;
     void eliminarContacto(const string& miName);
-    bool buscarContacto(const string& miName);
+    void buscarContacto(const string& miName);
     
 };
 
